@@ -1,0 +1,16 @@
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net6.0-windows\Odev.exe
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net6.0-windows\Odev.deps.json
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net6.0-windows\Odev.runtimeconfig.json
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net6.0-windows\Odev.dll
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net6.0-windows\Odev.pdb
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\Odev.Form1.resources
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\Odev.csproj.GenerateResource.cache
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\Odev.AssemblyInfoInputs.cache
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\Odev.AssemblyInfo.cs
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\Odev.csproj.CoreCompileInputs.cache
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\Odev.dll
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\refint\Odev.dll
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\Odev.pdb
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\Odev.genruntimeconfig.cache
+C:\Users\koray\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net6.0-windows\ref\Odev.dll
